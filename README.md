@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Lai</h1>
-- 🌱 I’m currently learning **fullstack web development at BloomTech Institute of Technology.**
+- 🌱 I’m currently learning **FullStack Web Development at BloomTech Institute of Technology.**
 
 - 📫 How to reach me **kevin.lai741@gmail.com**
 

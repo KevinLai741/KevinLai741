@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin Lai</h1>
 - 🌱 I’m currently learning **FullStack Web Development at BloomTech Institute of Technology.**
-- 🚀 https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif
+
+https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif
+
 - 📫 How to reach me **kevin.lai741@gmail.com**
 - Or you can connect with me here **https://www.linkedin.com/in/kevinlai741/**
 
